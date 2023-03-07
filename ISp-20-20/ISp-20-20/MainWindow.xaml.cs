@@ -54,7 +54,7 @@ namespace ISp_20_20
             }
             else
             {
-                MessageBox.Show("Неправильный логин или пароль");
+                MessageBox.Show("Вспоминай пароль тварь!");
             }
         }
 
